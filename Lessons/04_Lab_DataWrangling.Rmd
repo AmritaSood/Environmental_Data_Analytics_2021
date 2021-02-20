@@ -23,6 +23,7 @@ Opening discussion: why might we be interested in long-term observations of temp
 
 ```{r, message = FALSE}
 getwd()
+
 #install.packages(tidyverse)
 library(tidyverse)
 #install.packages(lubridate)
