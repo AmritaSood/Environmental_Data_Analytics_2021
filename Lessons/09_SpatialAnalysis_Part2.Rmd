@@ -30,6 +30,7 @@ The typical set up procedure: confirm the working directory and import libraries
 #Examine the working directory
 getwd()
 
+#install.packages("sf")
 #Import libraries
 library(tidyverse)
 library(sf)
